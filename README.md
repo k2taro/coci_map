@@ -8,8 +8,7 @@
 # HTML版マップ
 [coci_map.html](https://k2taro.github.io/coci_map.html)
 
-# マップされた論文(最終的なクラスタリング結果)
-
+# クラスタリング結果・マップのデータ
 ・[core_paper_final_pub.csv](https://github.com/k2taro/coci_map/blob/master/core_paper_final_pub.csv)  
 論文の書誌情報・クラスタリング結果  
 DOI_COCI : DOI from COCI  
