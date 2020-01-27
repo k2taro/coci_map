@@ -1,9 +1,11 @@
 # coci_map
-COCIで作る共引用マップ
+COCIで作る共引用マップ。
+
+#HTML版マップ
 
 
 
-Data source
+#Data source  
 ・COCI 2018年12月ダンプデータ
 　445,826,118：citations(引用の数)
 　46,534,705：bibliographic resources(含まれる論文数)
