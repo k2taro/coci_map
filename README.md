@@ -2,10 +2,10 @@
 COCIで作る共引用マップ。
 
 # HTML版マップ
-coci_map.html
+[coci_map.html](https://k2taro.github.io/coci_map.html)
 
 # マップされた論文(最終的なクラスタリング結果)
-
+[core_paper_final.csv](https://github.com/k2taro/coci_map/blob/master/core_paper_final.csv)
 
 # Data source  
 ・COCI 2018年12月ダンプデータ
