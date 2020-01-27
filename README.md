@@ -9,7 +9,26 @@
 [coci_map.html](https://k2taro.github.io/coci_map.html)
 
 # マップされた論文(最終的なクラスタリング結果)
-[core_paper_final.csv](https://github.com/k2taro/coci_map/blob/master/core_paper_final.csv)
+
+・[core_paper_final_pub.csv](https://github.com/k2taro/coci_map/blob/master/core_paper_final_pub.csv)
+論文の書誌情報・クラスタリング結果
+DOI_COCI : DOI from COCI
+#cited : Number of cited paper from the window(2015-2017)
+title_crossref : Paper title from crossref API
+journal_crossref : Journal title from crossref API
+ISSN_crossref : Journal's ISSN from crossref API
+sourceid_SCIMago : Sourceid of SCIMago()
+cls_final : Clustering result
+
+
+・[cls_final_pub.csv](https://github.com/k2taro/coci_map/blob/master/cls_final_pub.csv)
+クラスタリング結果の分野・マップ上の位置
+cls_final : Cluster name
+subject_name : Subject of cluster(from SCIMago journal list)
+V1 : X axis of the map(NA:Cannot calcurate position because the cluster has no co-citation edge to another cluster)
+V2 : Y axis of the map(NA:Cannot calcurate position because the cluster hos no co-citation edge to another cluster)
+
+
 
 # Data source  
 ・COCI 2018年12月ダンプデータ  
