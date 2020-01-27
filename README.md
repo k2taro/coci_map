@@ -1,5 +1,9 @@
 # coci_map
-COCIで作る共引用マップ。
+[COCI(the OpenCitations Index of Crossref open DOI-to-DOI citations)](https://opencitations.net/index/coci)で作る共引用マップ。  
+詳細な手法の説明やクラスタリング結果、マッピング結果についての詳細な分析は今後の宿題。
+
+# Poster
+とある場所で発表した[ポスター](https://github.com/k2taro/coci_map/blob/master/coci_public.pdf)
 
 # HTML版マップ
 [coci_map.html](https://k2taro.github.io/coci_map.html)
