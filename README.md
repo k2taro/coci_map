@@ -9,6 +9,7 @@
 [coci_map.html](https://github.com/k2taro/coci_map/blob/master/coci_map.html)  
 [githubpagesの単独動作版](https://k2taro.github.io/coci_map.html)
 
+![map](https://k2taro.github.io/coci_map.html) 
 
 # クラスタリング結果・マップのデータ
 ・[core_paper_final_pub.csv](https://github.com/k2taro/coci_map/blob/master/core_paper_final_pub.csv)  
